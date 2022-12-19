@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "Kuliner",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Nama": "Kafe dan Lesehan Aneka Kulier", "X": -7.803877, "Y": 112.068035 }, "geometry": { "type": "Point", "coordinates": [ 112.068034967756006, -7.80387708919429 ] } },
+{ "type": "Feature", "properties": { "Nama": "Bakso Brontoseno", "X": -7.761686, "Y": 112.167017 }, "geometry": { "type": "Point", "coordinates": [ 112.167017138838006, -7.7616857599606 ] } },
+{ "type": "Feature", "properties": { "Nama": "Penyetan Cik Wa", "X": -7.726292, "Y": 112.199635 }, "geometry": { "type": "Point", "coordinates": [ 112.199635254, -7.7262922358939 ] } },
+{ "type": "Feature", "properties": { "Nama": "Kuliner Kampung Inggris", "X": -7.755337, "Y": 112.180836 }, "geometry": { "type": "Point", "coordinates": [ 112.180835581086001, -7.75533699715024 ] } },
+{ "type": "Feature", "properties": { "Nama": "Kuliner Bu Nunik Bakso Penyet & Mie Pelangi", "X": -7.759908, "Y": 112.195177 }, "geometry": { "type": "Point", "coordinates": [ 112.195176843395004, -7.7599077581238 ] } },
+{ "type": "Feature", "properties": { "Nama": "Kuliner Bu Sri", "X": -7.728343, "Y": 112.172504 }, "geometry": { "type": "Point", "coordinates": [ 112.172504102806997, -7.72834296327446 ] } },
+{ "type": "Feature", "properties": { "Nama": "Warung Makan Wakul Jawi", "X": -7.823606, "Y": 112.180777 }, "geometry": { "type": "Point", "coordinates": [ 112.180776731723995, -7.82360596278639 ] } },
+{ "type": "Feature", "properties": { "Nama": "Kuliner Mbok Limbok", "X": -7.82021, "Y": 112.024519 }, "geometry": { "type": "Point", "coordinates": [ 112.024518691164005, -7.82021041856443 ] } },
+{ "type": "Feature", "properties": { "Nama": "Kuliner Mr. X", "X": -7.803879, "Y": 112.066907 }, "geometry": { "type": "Point", "coordinates": [ 112.066906738087994, -7.80387865853172 ] } },
+{ "type": "Feature", "properties": { "Nama": "Kuliner Mister Tuki", "X": -7.739739, "Y": 112.174503 }, "geometry": { "type": "Point", "coordinates": [ 112.174503315470005, -7.73973914904132 ] } },
+{ "type": "Feature", "properties": { "Nama": "Bismillah Kuliner", "X": -7.76523, "Y": 112.265548 }, "geometry": { "type": "Point", "coordinates": [ 112.265548425437004, -7.76523040824538 ] } },
+{ "type": "Feature", "properties": { "Nama": "Kuliner Perbatasan", "X": -7.823902, "Y": 112.195316 }, "geometry": { "type": "Point", "coordinates": [ 112.195315958562006, -7.82390180788887 ] } },
+{ "type": "Feature", "properties": { "Nama": "Nasi Pecel Mbak Yah", "X": -7.788036, "Y": 112.159966 }, "geometry": { "type": "Point", "coordinates": [ 112.159965878882005, -7.78803633044519 ] } },
+{ "type": "Feature", "properties": { "Nama": "Klepon Miroso", "X": -7.802365, "Y": 112.084821 }, "geometry": { "type": "Point", "coordinates": [ 112.084821089147994, -7.80236521167067 ] } },
+{ "type": "Feature", "properties": { "Nama": "Sate Emprit", "X": -7.812357, "Y": 112.075723 }, "geometry": { "type": "Point", "coordinates": [ 112.075723074701003, -7.8123568469886 ] } },
+{ "type": "Feature", "properties": { "Nama": "Warung Nasi Tumpang Mbah Rah", "X": -7.657396, "Y": 112.115678 }, "geometry": { "type": "Point", "coordinates": [ 112.115677623029995, -7.65739617907978 ] } }
+]
+}
